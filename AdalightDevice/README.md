@@ -1,0 +1,1 @@
+﻿# AdalightDevice for Aurora

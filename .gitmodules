@@ -1,0 +1,3 @@
+[submodule "Aurora"]
+	path = Aurora
+	url = https://github.com/antonpup/Aurora.git
